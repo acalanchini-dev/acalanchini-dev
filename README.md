@@ -25,3 +25,6 @@
 
 <h3>Plugin WordPress</h3>
 <a href="https://github.com/acalanchini-dev/woocommerce-conversion-boost">Woocommerce conversion boost</a> - <span>In fase di sviluppo</span>
+
+<h3>Per contattami</h3>
+<p>Email : <a href="mailTo:ac.calanchini@gmail.com">ac.calanchini@gmail.com</a></p>
