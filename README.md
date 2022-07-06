@@ -14,6 +14,10 @@
   <li>JQUERY</li>
   <li>MYSQL</li>
   <li>WORDPRESS</li>
+  <li>WOOCOMMERCE</li>
+  <li>PHOTOSHOP</li>
+  <li>ADOBE XD</li>
+  <li>FIGMA</li>
 </ul>
 
 <h2>I miei progetti</h2>
