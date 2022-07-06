@@ -28,3 +28,6 @@
 
 <h3>Per contattami</h3>
 <p>Email : <a href="mailTo:ac.calanchini@gmail.com">ac.calanchini@gmail.com</a></p>
+<p>Facebook : <a href="https://www.facebook.com/alessio.calanchini.9">Alessio calanchini</a></p>
+ <p>Instagram : <a href="https://www.instagram.com/alessioasr85/">Alessioasr85</a></p>
+  
